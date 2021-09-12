@@ -5,6 +5,8 @@
 **snd** (send) \- отправляет     
 **parse** (parse) \- разбирает  
 **render** (render) \- предоставляет  
+**init** (initialization) \- инициализирует  
+**def** (define) \- определяет  
 
 **run** (run) \- запускает  
 **call** (call) \- вызывает  
@@ -107,6 +109,12 @@
 **src** (source) \- источник  
 **conf** (config) \- конфигурация  
 **cfg** (config) \- конфигурация  
+**tbl** (table) \- таблица  
+**param** (parameter) \- параметер  
+**inst** (instance) \- экземпляр  
+**db** (database) \- база данных  
+**stat** (statistics) \- статистика 
+**resp** (response) \- ответ  
 
 # Отвечают на вопрос «какой?»  
 
