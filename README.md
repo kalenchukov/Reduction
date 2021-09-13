@@ -7,7 +7,8 @@
 **parse** (parse) \- разбирает  
 **render** (render) \- предоставляет  
 **init** (initialization) \- инициализирует  
-**def** (define) \- определяет  
+**def** (define) \- определяет   
+**exp** (expires) \- истекает  
 
 **run** (run) \- запускает  
 **call** (call) \- вызывает  
@@ -79,7 +80,7 @@
 **lst** (list) \- список  
 **elm** (element) \- элемент  
 **obj** (object) \- объект  
-**atr** (attribute) \- атрибут  
+**attr** (attribute) \- атрибут  
 **item** (item) \- пункт  
 **mrk** (marker) \- маркер  
 **lbl** (label) \- метка  
@@ -116,6 +117,7 @@
 **db** (database) \- база данных  
 **stat** (statistics) \- статистика 
 **resp** (response) \- ответ  
+**own** (owner) \- владелец  
 
 ### Отвечают на вопрос «какой?»  
 
