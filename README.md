@@ -117,6 +117,8 @@
 **db** (database) \- база данных  
 **stat** (statistics) \- статистика 
 **resp** (response) \- ответ  
+**prop** (properti) \- свойство  
+**stmt** (statement) \- утверждение  
 **own** (owner) \- владелец  
 
 ### Отвечают на вопрос «какой?»  
