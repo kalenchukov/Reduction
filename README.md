@@ -115,7 +115,7 @@
 **param** (parameter) \- параметер  
 **inst** (instance) \- экземпляр  
 **db** (database) \- база данных  
-**stat** (statistics) \- статистика 
+**stat** (statistics) \- статистика  
 **resp** (response) \- ответ  
 **prop** (properti) \- свойство  
 **stmt** (statement) \- утверждение  
