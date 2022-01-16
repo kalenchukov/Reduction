@@ -27,7 +27,7 @@
 **get** (getting) \- получает  
 
 **rem** (remove) \- снимает  
-**del** (create) \- удаляет  
+**del** (delete) \- удаляет  
 **clr** (clear) \- очищает  
 
 **rst** (reset) \- сбрасывает  
